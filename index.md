@@ -9,5 +9,5 @@ title: 摩登前端开发者
     <div class="mdui-col-xs-3 mdui-color-blue mdui-text-center">hello,jekyll.</div>
     <div class="mdui-col-xs-3 mdui-color-blue mdui-text-center">hello,jekyll.</div>
   </div>
+  <button class="mdui-btn mdui-ripple">按钮</button>
 </div>
-<button class="mdui-btn mdui-ripple">按钮</button>
