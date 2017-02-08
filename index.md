@@ -2,4 +2,4 @@
 layout: default
 title: 摩登前端开发者
 ---
-# hello,jekyll.
+<div class="link-blue">hello,jekyll.</div>
