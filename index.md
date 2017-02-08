@@ -20,19 +20,3 @@ title: 摩登前端开发者
     <img alt="git" class="book-image" src="http://o84cbt6xd.bkt.clouddn.com/banner.png"/>
   </div>
 </section>
-<div class="divider">
-  <a href="http://qd.haoduoshipin.com">返回 qd.haoduoshipin.com</a>
-</div>
-<div class="reviewers">
-  <div class="name-card">
-    <img src="https://avatars1.githubusercontent.com/u/72467?v=3&s=460">
-    <div class="text">
-      <div class="name">
-       happypeter
-      </div>
-      <div class="job-title"><a href="http://haoqicat.com">好奇猫网站主播</a></div>
-      一个喜欢录视频的 JS 开发者。
-    </div>
-  </div>
-</div>
-<div id="toc"></div>
